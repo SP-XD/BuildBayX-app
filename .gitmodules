@@ -1,0 +1,6 @@
+[submodule "web-frontend"]
+	path = web-frontend
+	url = https://github.com/SP-XD/BuildBayX-web-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/SP-XD/BuildBayX-backend
